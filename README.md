@@ -11,4 +11,8 @@
 * Show history
 * ...
 
+![](./stock.png)
+
+![](./requestDonate.png)
+
 #### © 2024 ji-Ly
